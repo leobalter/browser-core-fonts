@@ -17,7 +17,6 @@ th, td {
 .cursive { font-family: cursive; }
 .monospace { font-family: monospace; }
 .arial { font-family: Arial; }
-.arial-black { font-family: "Arial Black"; }
 .comic-sans { font-family: "Comic Sans MS"; }
 .courier-new { font-family: "Courier New"; }
 .georgia { font-family: Georgia; }
@@ -26,6 +25,7 @@ th, td {
 .lucida-grande { font-family: "Lucida Grande"; }
 .trebuchet-ms { font-family: "Trebuchet MS"; }
 .verdana { font-family: Verdana; }
+.times-new-roman { font-family: Times New Roman; }
 
 .bold { font-weight: 700; }
 .italic { font-style: italic; }
