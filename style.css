@@ -1,3 +1,17 @@
+body {
+	font-size: 12px;
+}
+
+th { 
+	font-weight: 700;
+	background-color: #eee;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 4px;
+}
+
 .sans-serif {	font-family: sans-serif; }
 .serif { font-family: serif; }
 .cursive { font-family: cursive; }
@@ -12,4 +26,8 @@
 .lucida-grande { font-family: "Lucida Grande"; }
 .trebuchet-ms { font-family: "Trebuchet MS"; }
 .verdana { font-family: Verdana; }
+
+.bold { font-weight: 700; }
+.italic { font-style: italic; }
+.contrast { background-color: #000; color: #fff; }
 
