@@ -1,7 +1,7 @@
 jQuery(function($) {
 	var fontList = document.getElementById('fontlist');
 	var contrast = $('.contrast');
-	var fontTextTds = $('td', fontList).not(':first');
+	var fontTextTds = $('td', fontList).not('::first');
 
 	$('#fontSize').on('keyup change', function () {
 		fontList.style.fontSize = (this.value + 'px');
