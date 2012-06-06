@@ -1,3 +1,15 @@
 .sans-serif {	font-family: sans-serif; }
 .serif { font-family: serif; }
 .cursive { font-family: cursive; }
+.monospace { font-family: monospace; }
+.arial { font-family: Arial; }
+.arial-black { font-family: "Arial Black"; }
+.comic-sans { font-family: "Comic Sans MS"; }
+.courier-new { font-family: "Courier New"; }
+.georgia { font-family: Georgia; }
+.impact { font-family: Impact; }
+.lucida-console { font-family: "Lucida Console"; }
+.lucida-grande { font-family: "Lucida Grande"; }
+.trebuchet-ms { font-family: "Trebuchet MS"; }
+.verdana { font-family: Verdana; }
+
