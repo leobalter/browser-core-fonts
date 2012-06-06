@@ -19,9 +19,7 @@ fieldset, form, label, legend {
 	vertical-align: baseline;
 }
 
-/* fixing firefox bug */
 div:after, ol:after, form:after, ul:after, li:after, dl:after {content:".";display:block;clear:both;visibility:hidden;height:0;overflow:hidden;}
-
 
 /* remember to define focus styles! */
 :focus {
@@ -51,7 +49,7 @@ blockquote, q {
 	quotes: "" "";
 }
 
-body {font-family:"Trebuchet MS", sans-serif; font-size:10px; color:#000; font-style:normal;}
+body {font-family:sans-serif; font-size:13px; color:#000; font-style:normal;}
 h1, h2, h3, h4, h5 { display:block; }
 h1 a:hover {text-decoration:none;}
 
