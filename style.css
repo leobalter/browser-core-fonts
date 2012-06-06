@@ -20,12 +20,14 @@ th, td {
 .comic-sans { font-family: "Comic Sans MS"; }
 .courier-new { font-family: "Courier New"; }
 .georgia { font-family: Georgia; }
+.helvetica { font-family: Helvetica; }
 .impact { font-family: Impact; }
 .lucida-console { font-family: "Lucida Console"; }
 .lucida-grande { font-family: "Lucida Grande"; }
+.tahoma { font-family: Tahoma; }
+.times-new-roman { font-family: Times New Roman; }
 .trebuchet-ms { font-family: "Trebuchet MS"; }
 .verdana { font-family: Verdana; }
-.times-new-roman { font-family: Times New Roman; }
 
 .bold { font-weight: 700; }
 .italic { font-style: italic; }
