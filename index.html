@@ -191,8 +191,9 @@
 			<p>Font Color: <input type="color" value="#000" id="fontColor" /> Ex.: #000</p>
 			<p>Bg Color: <input type="color" value="#fff" id="fontBG" /> Ex.: #fff</p>
 	  </div>
-
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<!-- ready for jQuery 2 -->
+		<!--[if lte IE 8]><script src="http://code.jquery.com/jquery-1.9.1.min.js"></script><![endif]-->
+		<!--[if (gte IE 9)|!(IE)]>--><script src="http://code.jquery.com/jquery-1.9.1.min.js"></script><!--<![endif]-->
 		<script src="script.js"></script>
 
 </body>
