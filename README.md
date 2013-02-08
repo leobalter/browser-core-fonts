@@ -1,2 +1,2 @@
-browser-core-fonts
-==================
+BrowserCoreFonts
+================
